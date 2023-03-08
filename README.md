@@ -1,3 +1,22 @@
+# Proyecto Electiva de Profundización I - Creación de APIS
+
+## Integrantes
+
+* Nombres Apellido [@advaleraa](https://github.com/advaleraa)
+* Nombres Apellido [@advaleraa](https://github.com/advaleraa)
+
+## Sprint # 1
+
+### Historias de Usuario
+
+Transcripción de las historias de usuario (imágenes, enlaces).
+
+### Historias Técnicas
+
+Transcripción de las historias técnicas (imágenes, enlaces).
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
