@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-* Nombres Apellido [@advaleraa](https://github.com/advaleraa)
-* Nombres Apellido [@advaleraa](https://github.com/advaleraa)
+* Nombres 1 Apellido [@advaleraa](https://github.com/advaleraa)
+* Nombres 1 Apellido [@advaleraa](https://github.com/advaleraa)
 
 ## Sprint # 1
 
