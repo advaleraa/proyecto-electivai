@@ -17,10 +17,9 @@ import { Client } from "pg";
           username: user,
           password,
           database: dbName,
-          ssl: {
-            rejectUnauthorized: false,
-          },
+          ssl: false,
           autoLoadEntities: true,
+          synchronize: true,
         };
       },
       inject: [config.KEY],
